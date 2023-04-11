@@ -42,6 +42,8 @@ categories:
 ---
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1681178509/video_to_markdown/images/youtube--NtKbhTW6gGo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/NtKbhTW6gGo "")
 
+{{< youtube NtKbhTW6gGo >}}
+
 ```python
 import libr
 print('hello')

@@ -40,6 +40,8 @@ categories:
   - Demo
   - 教程
 ---
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/GzdKMVn8avo/0.jpg)](https://youtu.be/NtKbhTW6gGo "CameraMaster")
+
 
 ```python
 import libr
